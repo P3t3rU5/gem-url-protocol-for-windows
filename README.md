@@ -5,4 +5,4 @@ A very simple registry branch and a bat to put on ruby folder just that you can 
 
 Just open and install GOPW.reg and put the batch file in C:\Ruby193\bin
 
-try it then [gem://facets/](gem://facets/)
+try it then gem://facets/
